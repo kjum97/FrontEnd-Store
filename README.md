@@ -1,2 +1,0 @@
-# FrontEnd-Store
- proyecto propio
